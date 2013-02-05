@@ -3,7 +3,7 @@ property ACTIVE_DAYS : {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", 
 
 # These are the apps that will be launched in an order from left to right (delimited by a coma).
 # To avoid any issues, they should be located in the /Applications/ folder.
-property APP_NAMES : {"Google Chrome", "Spotify", "Things"}
+property APP_NAMES : {"", "", ""}
 
 # This property is made for internal use. On change, be prepared for a Doomsday.
 property APP_NAME : ""
