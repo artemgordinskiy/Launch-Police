@@ -1,4 +1,2 @@
-Launch-Police
-=============
-
-An app that controls your OS X autorun
+**Launch Police**
+A script for controlled application launch.
